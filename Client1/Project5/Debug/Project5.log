@@ -1,0 +1,24 @@
+﻿  clientMain.cpp
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\ScriptManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\lib\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): warning C4244: 'argument': conversion from 'uint64_t' to 'duk_double_t', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\lib\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<uint64_t>::push(duk_context *,uint64_t)'
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\lib\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): warning C4244: 'argument': conversion from 'int64_t' to 'duk_double_t', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\lib\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<int64_t>::push(duk_context *,int64_t)'
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(66,21): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(77,21): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(127,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(261,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(261,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(396,35): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(596,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(597,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(627,1): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(634,1): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(646,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(1073,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(1073,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(1212,31): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(1711,22): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(2103,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\clientMain.cpp(178): warning C4172: returning address of local variable or temporary: point
+  Project5.vcxproj -> C:\Users\Cristina Wong\Desktop\Homework5\Part2\SpaceInvaders\Client1\Project5\Debug\Project5.exe
